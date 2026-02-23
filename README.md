@@ -1,97 +1,39 @@
-🌍 Travel Landing Page
+# Travel Booking Landing Page
 
-A beautiful, responsive landing page for a fictional travel booking site — focused on Ethiopian adventures and easy trip discovery.
+A beautiful, responsive landing page for a fictional travel booking site — celebrating **Ethiopian adventures** and easy trip discovery. Built with pure **HTML** & **CSS** (optional light Vanilla JS for interactivity) — no frameworks!
 
-Built with pure HTML and CSS (no frameworks), with optional light JavaScript for small interactive features.
+<div align="center">
+  <img src="images/screenshot.png" alt="Travel Booking Landing Page Preview" width="80%"/>
+  <br><br>
+  <em>Explore Ethiopian wonders: Bale Mountains, Lalibela, Danakil, and more! 🌍✈️</em>
+</div>
 
-🚀 Live Demo
+## ✨ Live Demo
 
-🌐 View the live site here:
-👉 https://mikyyDev.github.io/travel-booking/
+🌐 [View live site →](https://mikyyDev.github.io/travel-booking/)
 
-✨ Features
+## 📌 Features
 
-Modern and clean design with a wanderlust vibe
+- Modern, wanderlust-inspired design with adventurous Ethiopian vibe
+- Fully responsive layout (mobile, tablet, desktop perfection)
+- Hero section with prominent booking/search form (destination, dates, travelers)
+- Grid showcase of popular Ethiopian destinations (Bale Mountains, Lalibela, Danakil Depression, Addis Ababa)
+- Featured travel packages with prices, details & eye-catching cards
+- Testimonials section to build trust & excitement
+- Smooth scroll, hover effects, mobile menu toggle (if JS added)
 
-Fully responsive layout (mobile, tablet, and desktop friendly)
+## 🛠️ Technologies Used
 
-Hero section with booking/search form:
+- **HTML5** — semantic & accessible structure
+- **CSS3** — Flexbox, Grid, media queries, transitions/animations
+- **Vanilla JavaScript** (optional) — mobile menu, form hints, smooth scrolling
 
-Destination
+## 🎯 Project Highlights
 
-Travel dates
+Focused on showcasing Ethiopia's incredible natural & cultural sites while demonstrating clean, responsive web design skills using only vanilla technologies.
 
-Number of travelers
+## 🚀 Run Locally
 
-Popular destinations section featuring:
-
-Bale Mountains National Park
-
-Lalibela
-
-Danakil Depression
-
-Addis Ababa
-
-Featured travel packages with pricing and trip details
-
-Testimonials section to build trust
-
-Smooth scrolling and hover effects
-
-Mobile-friendly navigation (with optional JavaScript toggle)
-
-🛠 Technologies Used
-
-HTML5
-
-CSS3
-
-Flexbox
-
-Grid
-
-Media Queries
-
-Transitions & Animations
-
-Vanilla JavaScript (optional)
-
-Mobile menu toggle
-
-Form validation hints
-
-Smooth scrolling
-
-💻 How to Run Locally
-
-Clone the repository:
-
-git clone https://github.com/mikyyDev/travel-booking.git
-
-Open the project folder.
-
-Launch index.html in your browser
-(Or use Live Server in VS Code for a better development experience.)
-
-🎨 Customization Ideas
-
-Replace placeholder images with real Ethiopian travel photography
-
-Add more destinations and travel packages
-
-Connect the booking form to a backend in the future
-
-Add animations or dark mode
-
-📌 Project Purpose
-
-This project was built to practice:
-
-Responsive web design
-
-Layout techniques using Flexbox and Grid
-
-Clean UI structure
-
-Front-end development fundamentals
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/mikyyDev/travel-booking.git
